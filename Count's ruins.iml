@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="BuildSystem">
+    <option name="buildSystemId" value="CLOJURE_DEPS" />
+    <option name="displayName" value="Count's ruins" />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Deps: org.clojure/clojure:1.11.1" level="project" />
+    <orderEntry type="library" name="Deps: cljfx:1.7.22" level="project" />
+    <orderEntry type="library" name="Deps: cljfx/cljfx$jdk11:1.7.22" level="project" />
+    <orderEntry type="library" name="Deps: org.openjfx/javafx-media:17.0.2" level="project" />
+    <orderEntry type="library" name="Deps: org.clojure/core.specs.alpha:0.2.62" level="project" />
+    <orderEntry type="library" name="Deps: org.openjfx/javafx-web$linux:17.0.2" level="project" />
+    <orderEntry type="library" name="Deps: org.clojure/spec.alpha:0.3.218" level="project" />
+    <orderEntry type="library" name="Deps: org.openjfx/javafx-media$linux:17.0.2" level="project" />
+    <orderEntry type="library" name="Deps: org.openjfx/javafx-controls:17.0.2" level="project" />
+    <orderEntry type="library" name="Deps: cljfx/css:1.1.0" level="project" />
+    <orderEntry type="library" name="Deps: org.openjfx/javafx-controls$linux:17.0.2" level="project" />
+    <orderEntry type="library" name="Deps: org.openjfx/javafx-graphics$linux:17.0.2" level="project" />
+    <orderEntry type="library" name="Deps: org.openjfx/javafx-graphics:17.0.2" level="project" />
+    <orderEntry type="library" name="Deps: org.openjfx/javafx-base:17.0.2" level="project" />
+    <orderEntry type="library" name="Deps: org.openjfx/javafx-base$linux:17.0.2" level="project" />
+    <orderEntry type="library" name="Deps: org.clojure/data.priority-map:1.1.0" level="project" />
+    <orderEntry type="library" name="Deps: org.openjfx/javafx-web:17.0.2" level="project" />
+    <orderEntry type="library" name="Deps: org.clojure/core.cache:1.0.225" level="project" />
+  </component>
+</module>

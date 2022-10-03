@@ -1,0 +1,6 @@
+{:paths ["src"]
+ :deps  {org.clojure/clojure    {:mvn/version "1.11.1"}
+         org.clojure/core.cache {:mvn/version "1.0.225"}
+         cljfx/cljfx            {:mvn/version "1.7.22"}
+         cljfx/css              {:mvn/version "1.1.0"}}
+ }
